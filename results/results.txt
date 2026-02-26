@@ -1,0 +1,7 @@
+CNN Accuracy: 0.6811
+CNN Training Time: 76.17 seconds
+CNN Memory Usage: 112.35 MB
+SVM Accuracy: 0.3261
+SVM Training Time: 849.86 seconds
+SVM Memory Usage: 3.98 MB
+SVM Loss: 1.9589

@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorFlow / ML
+*.h5
+*.keras
+*.pb
+logs/
+checkpoints/
+
+# Data (CIFAR-10 auto-downloads, no need to track)
+data/
+*.tar.gz
