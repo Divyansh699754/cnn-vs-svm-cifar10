@@ -71,7 +71,7 @@ cnn-vs-svm-cifar10/
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/<your-username>/cnn-vs-svm-cifar10.git
+git clone https://github.com/Divyansh699754/cnn-vs-svm-cifar10.git
 cd cnn-vs-svm-cifar10
 pip install -r requirements.txt
 ```
